@@ -1,5 +1,5 @@
 {
-    let number=2024;
+    let number=2023;
     if (number%4==0){
         console.log(number+" leap year")
     }else{
