@@ -2,10 +2,10 @@
     
     function fizzbuzz(n){
       for(let k=0;k<=n;++k){
-         if((k%3==0)&&(k%6==0))(
+         if((k%3==0)&&(k%7==0))(
             console.log("fizzbuzz")
         )
-          else if(k%6==0)(
+          else if(k%7==0)(
             console.log("buzz")
           )
           else if (k%3==0)(
